@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @alijoghatee
-- 👀 I’m student in langueg python and framework Django
+- 👀 I’m python/Django developer
 - 📫 my Email: alijighataee77@gmail.com
