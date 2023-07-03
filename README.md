@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @alijoghataee
+- 👋 Hi, I’m alijoghataee
 - 👀 I’m python/Django developer
 - 📫 my Email: alijighataee77@gmail.com
